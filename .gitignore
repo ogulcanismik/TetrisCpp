@@ -1,0 +1,29 @@
+# Project documents (keep locally, not in repo)
+*.pdf
+
+# Build output
+*.exe
+*.obj
+*.o
+*.out
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.exp
+
+# IDE / editor
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+x64/
+Debug/
+Release/
+build/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
